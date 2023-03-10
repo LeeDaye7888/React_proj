@@ -1,0 +1,405 @@
+@import url("https://fonts.googleapis.com/css2?family=Crimson+Text&family=Gothic+A1&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap");
+* {
+  font-family: "Crimson Text", serif;
+  text-align: center;
+  user-select: none;
+  list-style: none;
+  box-sizing: border-box;
+}
+.App {
+  text-align: center;
+}
+.login {
+  display: flex;
+  flex-direction: column;
+  max-width: 200px;
+  margin: 0 auto;
+  margin-top: 100px;
+}
+.mypageName {
+  font-size: 60px;
+  margin-top: 40px;
+}
+
+.mypageBottom {
+  font-size: 20px;
+  color:black;
+  margin-top: 60px;
+}
+/* .main-bg {
+  height: 300px;
+  background-image: url('./bg.png');
+  background-size: cover;
+  background-position: center;
+} */
+/* .container {
+  margin-top: 100px;
+} */
+.btn-cart{
+  background-color: black;
+  color: white;
+  width: 120px;
+  height: 50px;
+  float: left;
+ margin-left: 380px;
+ margin-top: 20px;
+ font-size: 20px;
+}
+
+.btn-buy{
+  background-color: black;
+  color: white;
+  width: 120px;
+  height: 50px;
+  float: right;
+  margin-top: 20px;
+  font-size: 20px;
+}
+.select-size{
+  width: 255px;
+  height: 40px;
+  font-size: 25px;
+}
+.btn-select{
+  text-align: right;
+  float: right;
+  margin-top: 10px;
+}
+.product-detail{
+  font-size: 25px;
+  float: center;
+  
+}
+.product-detail2{
+  margin-top: 70px;
+  float: center;
+
+}
+.pt-5{
+  text-align: center;
+  font-size: 40px;
+}
+.review {
+  font-size: 40px;
+  font-weight: 600;
+  padding-top: 40px;
+}
+.logo {
+  font-size: 85px;
+  margin-left: 20px;
+}
+.navbarWrap {
+  height: 80px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.navbarScroll {
+  margin-right: 10px;
+}
+.main-bg {
+  height: 950px;
+  /* background-image: url("https://www.ikea.com/ext/ingkadam/m/356df876ca0fb7b7/original/PH187068-crop005.jpg?f=sg"); */
+  background-image: url("https://static.zara.net/photos///contents/mkt/spots/aw22-north-woman-shoes-bags/subhome-xmedia-47-3//w/1920/IMAGE-landscape-fill-c5f040ff-0645-460f-8737-27c1b246c997-default_0.jpg?ts=1669447560094");
+  background-size: cover;
+  background-position: center;
+}
+.categoryName {
+  font-size: 70px;
+  margin-top: 100px;
+}
+.categoryWrap {
+  margin-top: 40px;
+}
+.greenBox {
+  background-size: cover;
+  height: 250px;
+  background-color: #0b460b;
+  margin-top: 100px;
+  padding-top: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.greenBox .greenBoxText {
+  color: white;
+  font-size: 30px;
+  margin-top: 30px;
+  display: flex;
+  font-weight: 100;
+  flex-direction: column;
+}
+.greenBox .greenBoxTextSmall {
+  font-size: 15px;
+}
+.christmas {
+  font-size: 20px;
+  padding-left: 30px;
+  width: fit-content;
+}
+.row {
+  margin-top: 200px;
+}
+.rowWrap {
+  margin-top: 100px;
+}
+/* .sofaInfo {
+  margin-top: 40px;
+  display: flex;
+} */
+.middleImg {
+  height: 930px;
+  background-image: url("https://static.zara.net/photos///contents/mkt/spots/aw22-north-collection/subhome-xmedia-47-2//w/1920/IMAGE-landscape-default-fill-52c68dfd-0e65-4cb6-844c-1fe52cb3399d-default_0.jpg?ts=1669447770871");
+  background-position: center;
+  margin-top: 180px;
+  margin-bottom: 100px;
+}
+.topItemsWrap {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 150px;
+  margin-left: 100px;
+  /* padding-left: 50px;
+  padding-right: 50px; */
+}
+.title {
+  font-size: 80px;
+  margin-top: 60px;
+  margin-bottom: 30px;
+}
+.topItems {
+  margin: 15px;
+  /* width: 400px;
+  height: 300px; */
+  width: 400px;
+  height: 500px;
+  margin-right: 150px;
+  text-align: center;
+  justify-content: center;
+}
+.topPageSubTitle {
+  margin-bottom: 90px;
+}
+.topPageSubTitle .Name {
+  font-size: large;
+  display: inline;
+}
+.topPageSubTitle .icon {
+  font-size: 1.2rem;
+  display: inline;
+  margin-left: 15px;
+}
+.reviewTextBox {
+  width: 1400px;
+  height: 200px;
+  background-color: #e0e0e0; 
+  /* background-color: #f0eada; */
+  margin: 0 auto;
+  margin-top: 30px;
+}
+/* .reviewWrap h4 {
+  font-size: 70px;
+
+} */
+.reviewTextBox h4 {
+  font-size: 70px;
+  text-align: center;
+  justify-items: center;
+  padding-top: 60px;
+  padding-bottom: 50px;
+  color: black;
+}
+.Row button {
+  width: 30px;
+}
+.reviewName {
+  text-align: center;
+  font-size: 70px;
+  margin-top: 100px;
+}
+.reviewWrap {
+  margin-top: 30px;
+}
+.reviewsWrap {
+  width: 1400px;
+  margin: 0 auto;
+  padding-top: 30px;
+}
+.reviewWrite {
+  display: block;
+  margin-top: 100px;
+  width: 90px;
+  height: 38px;
+  /* text-align: center;
+  justify-content: center; */
+  margin: 0 auto;
+  margin-top: 40px;
+}
+.list {
+  text-align: left;
+  border-bottom: 1px solid grey;
+  padding: 20px;
+  font-size: 18px;
+  margin-bottom: 50px;
+}
+.textArea {
+  text-align: left;
+}
+.removeButton {
+  border: none;
+  background: none;
+  font-size: 1.3rem;
+}
+.handBtn {
+  width: fit-content;
+  border: none;
+}
+.ReviewPageBottom {
+  margin-top: 40px;
+}
+.writeButton {
+  margin-left: 10px;
+  background: none;
+}
+textarea {
+  width: 700px;
+  height: 100px;
+}
+
+.start {
+  opacity: 0;
+}
+
+.end {
+  opacity: 1;
+  transition: opacity 0.5s;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+footer {
+  font-size: 13px;
+  margin-top: 150px;
+  width: 100%;
+  border-top: 1px solid rgb(247, 233, 233);
+  letter-spacing: -2px;
+}
+footer .footerTop {
+  width: 100%;
+}
+footer .footerTop .footerContentTop {
+  display: flex;
+  justify-content: space-between;
+}
+footer .footerTop .footerContent .FooterTopWords ul {
+  display: flex;
+  flex-direction: row;
+}
+footer .footerTop .footerContent .FooterTopWords ul li {
+  margin-right: 50px;
+}
+
+/* footer 아이콘 */
+.FooterTopIcons {
+  width: 300px;
+  display: flex;
+  margin-right: 10px;
+}
+/* .FooterTopIcons .naver_post img {
+  width: 37px;
+  height: 37px;
+  margin-top: 10px;
+} */
+/* .FooterTopIcons .facebook {
+  display: flex;
+  margin-right: 10px;
+}
+.FooterTopIcons .naver_post {
+  display: flex;
+  margin-right: 10px;
+}
+.FooterTopIcons .naver_post {
+  display: flex;
+  margin-right: 10px;
+}
+.FooterTopIcons .kakao {
+  display: flex;
+  margin-right: 10px;
+}
+.FooterTopIcons .youtube {
+  display: flex;
+  margin-right: 10px;
+} */
+
+footer .footerBottom {
+  /* background-color: #5f5f5f; */
+  background-color: #e0e0e0;
+  width: 100%;
+  padding: 40px 0;
+}
+footer .footerBottom .footerContent .footerBottomWords {
+  display: flex;
+  flex-direction: row;
+  padding: 10px 0;
+  align-items: center;
+}
+footer .footerBottom .footerContent .footerBottomWords p,
+h1 {
+  /* color: white; */
+  color: black;
+  margin-right: 20px;
+}
+
+footer
+  .footerBottom
+  .footerContent
+  .footerBottomWords
+  p:not([class="noBorder"]) {
+  border-left: 1px solid white;
+  padding-left: 10px;
+}
+footer .footerContent {
+  margin: 0 auto;
+  width: 1000px;
+  padding: 20px 0;
+  align-items: center;
+}
+footer .footerContent div:nth-of-type(3) p {
+  color: rgb(182, 182, 182);
+}
+footer .footerContent div:nth-of-type(2) {
+  margin-top: -10px;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

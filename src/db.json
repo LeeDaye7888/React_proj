@@ -1,0 +1,280 @@
+{
+  "posts": [
+    {
+      "id": 0,
+      "title": "HIGH NECK T-SHIRTS",
+      "src": "https://static.zara.net/photos///2022/I/0/1/p/4174/656/505/2/w/850/4174656505_6_1_1.jpg?ts=1663917260546",
+      "price": "139,000"
+    },
+    {
+      "id": 1,
+      "title": "BUTTON SHIRTS",
+      "src": "https://static.zara.net/photos///2022/I/0/1/p/8542/118/251/2/w/850/8542118251_6_1_1.jpg?ts=1669308342123",
+      "price": "859,000"
+    },
+    {
+      "id": 2,
+      "title": "RIBBON SHIRTS",
+      "src": "https://static.zara.net/photos///2022/I/0/1/p/8774/338/303/2/w/850/8774338303_6_1_1.jpg?ts=1663166582945",
+      "price": "557,900"
+    },
+    {
+      "id": 3,
+      "title": "FORM KNIT",
+      "src": "https://static.zara.net/photos///2022/I/0/1/p/5802/162/620/2/w/850/5802162620_6_1_1.jpg?ts=1669103989814",
+      "price": "257,900"
+    },
+    {
+      "id": 4,
+      "title": "CONTRAST RIBBON SHIRTS",
+      "src": "https://static.zara.net/photos///2022/I/0/1/p/3666/201/251/2/w/850/3666201251_6_1_1.jpg?ts=1664287087498",
+      "price": "539,000"
+    },
+    {
+      "id": 5,
+      "title": "KNIT VEST WITH BEJEWELLED BUTTONS",
+      "src": "https://static.zara.net/photos///2022/I/0/1/p/4369/108/330/2/w/850/4369108330_6_1_1.jpg?ts=1669308130085",
+      "price": "339,000"
+    },
+    {
+      "id": 6,
+      "title": "CROPPED CUT-OUT KNIT SWEATER",
+      "src": "https://static.zara.net/photos///2022/I/0/1/p/5536/108/505/2/w/850/5536108505_6_1_1.jpg?ts=1669376862390",
+      "price": "389,000"
+    },
+    {
+      "id": 7,
+      "title": "CAN THREE SEATER",
+      "src": "https://static.zara.net/photos///2022/I/0/1/p/3991/130/700/2/w/850/3991130700_6_1_1.jpg?ts=1666248946465",
+      "price": "619,000"
+    },
+    {
+      "id": 8,
+      "title": "HACKNEY LOUNGE CORNER SECTIONAL",
+      "src": "https://static.zara.net/photos///2022/I/0/1/p/3920/108/712/2/w/850/3920108712_6_1_1.jpg?ts=1665731289180",
+      "price": "69,000"
+    },
+    {
+      "id": 9,
+      "title": "EAMES SOFA COMPACT, HERMAN MILLER X HAY",
+      "src": "https://static.zara.net/photos///2022/I/0/1/p/4331/148/800/2/w/850/4331148800_6_1_1.jpg?ts=1658906573716",
+      "price": "229,000"
+    },
+    {
+      "id": 10,
+      "title": "MAGS SOFT LOW MODULAR SECTIONAL",
+      "src": "https://static.zara.net/photos///2022/I/0/1/p/3471/106/505/2/w/850/3471106505_6_1_1.jpg?ts=1668524566550",
+      "price": "649,000"
+    }
+  ],
+  "bottom": [
+    {
+      "id": 0,
+      "title": "하이웨이스트 스트레이트 레그 팬츠",
+      "src": "https://static.zara.net/photos///2022/I/0/1/p/5427/555/756/2/w/750/5427555756_6_1_1.jpg?ts=1666283073870",
+      "price": "55,000"
+    },
+    {
+      "id": 1,
+      "title": "펄 버클 벨트 큐롯 팬츠",
+      "src": "https://static.zara.net/photos///2022/I/0/1/p/4387/316/800/2/w/750/4387316800_6_1_1.jpg?ts=1666709367550",
+      "price": "59,000"
+    },
+    {
+      "id": 2,
+      "title": "롤업 스타일 와이드 레그 팬츠",
+      "src": "https://static.zara.net/photos///2022/I/0/1/p/3046/371/704/2/w/750/3046371704_6_1_1.jpg?ts=1667920045225",
+      "price": "79,000"
+    },
+    {
+      "id": 3,
+      "title": "스트럭처 와이드 팬츠",
+      "src": "https://static.zara.net/photos///2022/I/0/1/p/8720/172/084/2/w/750/8720172084_6_1_1.jpg?ts=1663150384432",
+      "price": "89,000"
+    },
+    {
+      "id": 4,
+      "title": "페이크 레더 팬츠",
+      "src": "https://static.zara.net/photos///2022/I/0/1/p/2969/243/800/2/w/750/2969243800_6_1_1.jpg?ts=1660895221253",
+      "price": "59,000"
+    },
+    {
+      "id": 5,
+      "title": "리브드 니트 팬츠",
+      "src": "https://static.zara.net/photos///2022/I/0/1/p/1822/141/808/2/w/750/1822141808_6_1_1.jpg?ts=1669300872437",
+      "price": "69,000"
+    },
+    {
+      "id": 6,
+      "title": "엘라스틱 웨이스트 팬츠",
+      "src": "https://static.zara.net/photos///2022/I/0/1/p/1971/197/803/2/w/750/1971197803_6_1_1.jpg?ts=1665413324730",
+      "price": "57,000"
+    },
+    {
+      "id": 7,
+      "title": "스트레이트 카고 팬츠",
+      "src": "https://static.zara.net/photos///2022/I/0/1/p/1608/260/505/2/w/750/1608260505_6_1_1.jpg?ts=1668081923812",
+      "price": "55,000"
+    },
+    {
+      "id": 8,
+      "title": "울 팬츠 LIMITED EDITION",
+      "src": "https://static.zara.net/photos///2022/I/0/1/p/2521/902/802/2/w/750/2521902802_6_1_1.jpg?ts=1665474967444",
+      "price": "279,000"
+    },
+    {
+      "id": 9,
+      "title": "플리츠 와이드 팬츠",
+      "src": "https://static.zara.net/photos///2022/I/0/1/p/8372/424/505/2/w/750/8372424505_6_1_1.jpg?ts=1663745343423",
+      "price": "89,000"
+    },
+    {
+      "id": 10,
+      "title": "마이크로 코듀로이 파라슈트 팬츠",
+      "src": "https://static.zara.net/photos///2023/V/0/1/p/6929/226/251/2/w/750/6929226251_6_1_1.jpg?ts=1669301133342",
+      "price": "79,900"
+    }
+  ],
+
+  "outer": [
+    {
+      "id": 0,
+      "title": "Belt Detail Double Faced Crop JUMPER",
+      "src": "https://static.zara.net/photos///2022/I/0/1/p/8073/265/700/20/w/750/8073265700_1_1_1.jpg?ts=1669381679241",
+      "price": "139,000"
+    },
+    {
+      "id": 1,
+      "title": "FAKE FUR CROP JUMPER",
+      "src": "https://static.zara.net/photos///2022/I/0/1/p/6318/233/802/2/w/750/6318233802_1_1_1.jpg?ts=1665474455490",
+      "price": "139,000"
+    },
+    {
+      "id": 2,
+      "title": "SATIN PUFFER JACKET",
+      "src": "https://static.zara.net/photos///2022/I/0/1/p/5320/708/712/2/w/750/5320708712_1_1_1.jpg?ts=1664984862083",
+      "price": "109,000"
+    },
+    {
+      "id": 3,
+      "title": "Shor Padding Ves",
+      "src": "https://static.zara.net/photos///2022/I/0/1/p/8073/252/800/12/w/750/8073252800_1_1_1.jpg?ts=1669109554534",
+      "price": "79,000"
+    },
+    {
+      "id": 4,
+      "title": "LIMITED EDITION WOOL COAT",
+      "src": "https://static.zara.net/photos///2022/I/0/1/p/9283/817/704/2/w/750/9283817704_1_1_1.jpg?ts=1669281424457",
+      "price": "279,000"
+    },
+    {
+      "id": 5,
+      "title": "BELT DETAIL FAKED LEATHER TRANCH COAT",
+      "src": "https://static.zara.net/photos///2022/I/0/1/p/3046/308/800/3/w/750/3046308800_1_1_1.jpg?ts=1662109532130",
+      "price": "149,000"
+    },
+    {
+      "id": 6,
+      "title": "Commbi Color Cape LIMITED EDITION",
+      "src": "https://static.zara.net/photos///2022/I/0/1/p/8491/242/505/17/w/750/8491242505_1_1_1.jpg?ts=1667985532860",
+      "price": "139,000"
+    },
+    {
+      "id": 7,
+      "title": "Oversize Double Trench Coat",
+      "src": "https://static.zara.net/photos///2022/I/0/1/p/4369/240/450/4/w/750/4369240450_1_1_1.jpg?ts=1661160387946",
+      "price": "149,000"
+    },
+    {
+      "id": 8,
+      "title": "WATER AND WIND PROTECTION 700 FILL POWER PADDING JUMPER",
+      "src": "https://static.zara.net/photos///2022/I/0/1/p/3046/230/800/2/w/750/3046230800_1_1_1.jpg?ts=1665476127426",
+      "price": "169,000"
+    },
+    {
+      "id": 9,
+      "title": "STRAIGHT FIT FAUX LEATHER BLAZER",
+      "src": "https://static.zara.net/photos///2022/I/0/1/p/3046/363/800/2/w/750/3046363800_2_1_1.jpg?ts=1669301150047",
+      "price": "99,000"
+    },
+    {
+      "id": 10,
+      "title": "STRUCTURE OVERSIZE BLAZER",
+      "src": "https://static.zara.net/photos///2022/I/0/1/p/7901/220/711/2/w/750/7901220711_2_1_1.jpg?ts=1667383473750",
+      "price": "109,000"
+    }
+  ],
+
+  "dress": [
+    {
+      "id": 0,
+      "title": "Ribbon Mini Onepiece",
+      "src": "https://static.zara.net/photos///2022/I/0/1/p/9231/334/514/2/w/750/9231334514_1_1_1.jpg?ts=1669304612869",
+      "price": "109,000"
+    },
+    {
+      "id": 1,
+      "title": "SATIN MINI ONEPIECE",
+      "src": "https://static.zara.net/photos///2022/I/0/1/p/9492/650/251/2/w/750/9492650251_2_1_1.jpg?ts=1660148375355",
+      "price": "59,000"
+    },
+    {
+      "id": 2,
+      "title": "Side Buckle Blazer Onepiece",
+      "src": "https://static.zara.net/photos///2022/I/0/1/p/8585/688/800/12/w/750/8585688800_1_1_1.jpg?ts=1667384823751",
+      "price": "99,000"
+    },
+    {
+      "id": 3,
+      "title": "Glitter Velvet Onepiece",
+      "src": "https://static.zara.net/photos///2022/I/0/1/p/4786/303/800/2/w/750/4786303800_2_2_1.jpg?ts=1666170896627",
+      "price": "59,000"
+    },
+    {
+      "id": 4,
+      "title": "Drape Velvet Onepiece",
+      "src": "https://static.zara.net/photos///2022/I/0/1/p/9017/987/800/12/w/750/9017987800_2_1_1.jpg?ts=1668597219274",
+      "price": "59,000"
+    },
+    {
+      "id": 5,
+      "title": "Off Shoulder Onepiece LIMITED EDITION",
+      "src": "https://static.zara.net/photos///2022/I/0/1/p/9348/596/800/2/w/750/9348596800_2_2_1.jpg?ts=1668702881600",
+      "price": "109,000"
+    },
+    {
+      "id": 6,
+      "title": "Feather Glitter Onepiece",
+      "src": "https://static.zara.net/photos///2022/I/0/1/p/2712/813/800/3/w/750/2712813800_1_1_1.jpg?ts=1669208876437",
+      "price": "89,000"
+    },
+    {
+      "id": 7,
+      "title": "Ribbon Knit Mini Onepiece",
+      "src": "https://static.zara.net/photos///2022/I/0/1/p/6427/001/800/2/w/750/6427001800_1_1_1.jpg?ts=1668418358428",
+      "price": "59,000"
+    },
+    {
+      "id": 8,
+      "title": "Button Ottoman Onepiece",
+      "src": "https://static.zara.net/photos///2022/I/0/1/p/0085/497/800/2/w/750/0085497800_1_1_1.jpg?ts=1665678157521",
+      "price": "49,000"
+    },
+    {
+      "id": 9,
+      "title": "Chenille Onepiece",
+      "src": "https://static.zara.net/photos///2022/I/0/1/p/7901/822/982/2/w/750/7901822982_2_1_1.jpg?ts=1660910570235",
+      "price": "55,000"
+    },
+    {
+      "id": 10,
+      "title": "Flower Structure Combi Onepiece",
+      "src": "https://static.zara.net/photos///2022/I/0/1/p/9360/866/800/2/w/750/9360866800_2_1_1.jpg?ts=1667564423658",
+      "price": "99,000"
+    }
+  ],
+
+  "profile": {
+    "name": "typicode"
+  }
+}
